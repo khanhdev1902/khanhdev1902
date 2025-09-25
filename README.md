@@ -42,15 +42,20 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 
-
-
 <br>
 
 <br>
 <h2 align="center">😎 My project recently 😎</h2>
 
+<span>Nội thất ZORO -
+<a href = "https://noithat-zoro.vercel.app/">https://noithat-zoro.vercel.app</a></span>
 <br>
 <br>
+<span>Ebook Store -
+<a href = "https://ebook-v2.vercel.app/">https://ebook-v2.vercel.app</a></span>
+<br>
+<br>
+
 <h2 align="center">😎 Where to find me 😎</h2>
 <br>
 <!-- https://icons8.com -->
