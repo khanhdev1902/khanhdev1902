@@ -48,7 +48,7 @@
 <h2 align="center">😎 My project recently 😎</h2>
 
 <span>Nội thất ZORO -
-<a href = "https://noithat-zoro.vercel.app/">https://noithat-zoro.vercel.app</a></span>
+<a href = "https://luxhouse.vercel.app/">https://luxhouse.vercel.app</a></span>
 <br>
 <br>
 <span>Ebook Store -
