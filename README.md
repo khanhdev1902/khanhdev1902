@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=e0234e&height=200&section=header&text=Khanh%20Nguyen&fontSize=70&animation=fadeIn" width="1200" alt="Khanh Backend Developer" />
-  
   <h3>🚀 Backend Engineer | NestJS Specialist | Aspiring Fullstack Developer</h3>
   <p><i>Crafting scalable, high-performance systems with clean architecture.</i></p>
 
