@@ -4,7 +4,7 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/khanh-nguyen-van-b37847341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:khanhdeddo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:khanhdev1902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.facebook.com/khanhdeddo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
   </p>
 </div>
@@ -51,7 +51,7 @@ Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Deve
 
 ## 🚀 Featured Projects
 
-### 🏠 Zoro Interior (E-commerce Platform)
+### 🏠 Luxhouse Interior (E-commerce Platform)
 *High-end furniture management system.*
 - **Core:** NestJS, PostgreSQL (TypeORM).
 - **Key Features:** Secure JWT Authentication, Role-based Access Control (RBAC), Order Management, and Payment Gateway integration.
