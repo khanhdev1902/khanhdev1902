@@ -1,74 +1,81 @@
-<!-- Khanh Deddo -->
-<a href="#" target="_blank">
-  <img src="svg/profile.svg" width="1200" alt="Khanh Web Development" />
-</a>
-<h2 align="center">About me</h2>
-<p align="center" >Hi everyone ! I am Khanh, a newbie web developer 😎.</p>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Mui%20CSS-282C34?logo=mui-css&logoColor=007FFF" alt="MuiCSS logo" title="MuiCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-
-<br>
-
-<br>
-<h2 align="center">😎 My project recently 😎</h2>
-
-<span>Nội thất ZORO -
-<a href = "https://luxhouse.vercel.app/">https://luxhouse.vercel.app</a></span>
-<br>
-<br>
-<span>Ebook Store -
-<a href = "https://ebook-v2.vercel.app/">https://ebook-v2.vercel.app</a></span>
-<br>
-<br>
-
-<h2 align="center">😎 Where to find me 😎</h2>
-<br>
-<!-- https://icons8.com -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=e0234e&height=200&section=header&text=Khanh%20Nguyen&fontSize=70&animation=fadeIn" width="1200" alt="Khanh Backend Developer" />
+  
+  <p>🚀 <b>Backend Developer | NestJS Enthusiast</b></p>
+  <p><i>Xây dựng hệ thống ổn định, hiệu suất cao và có khả năng mở rộng.</i></p>
+</div>
+
+<hr />
+
+## 🧑‍💻 About Me
+Chào bạn! Tôi là **Khánh**, một kỹ sư phần mềm tập trung vào phát triển **Backend với NestJS**. 
+Tôi đam mê việc thiết kế kiến trúc hệ thống (System Design), tối ưu hóa truy vấn Database và xây dựng các API theo chuẩn RESTful/GraphQL.
+
+- 🌱 Hiện tại tôi đang đào sâu về: **Microservices, Docker, và Redis caching.**
+- 🎯 Mục tiêu: Trở thành một Fullstack Engineer với thế mạnh cốt lõi là Backend.
+- 💬 Hãy hỏi tôi về: Node.js, Typescript và cấu trúc thư mục trong NestJS.
+
+---
+
+## 🛠 Tech Stack
+
+### 🏗 Backend Architecture & Core
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</p>
+
+### 🗄 Databases & DevOps
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 🎨 Frontend Support
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Nội thất ZORO (E-commerce Platform)
+*Hệ thống quản lý nội thất cao cấp.*
+- **Backend:** NestJS, PostgreSQL (TypeORM).
+- **Tính năng:** Quản lý đơn hàng, tích hợp thanh toán, phân quyền JWT.
+- 🔗 [Live Demo](https://luxhouse.vercel.app/)
+
+### 📚 Ebook Store
+*Nền tảng đọc và mua sách trực tuyến.*
+- **Backend:** Node.js, Express, MongoDB.
+- **Tính năng:** Tìm kiếm Full-text search, giỏ hàng, xác thực người dùng.
+- 🔗 [Live Demo](https://ebook-v2.vercel.app/)
+
+---
+
+## 📫 Connect with me
+<div align="left">
   <a href="https://www.facebook.com/khanhdeddo" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=118562&format=png&color=000000" alt="khanhdeddo-facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.linkedin.com/in/khanh-nguyen-van-b37847341" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="khanhdeddo-linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:khanhdeddo@gmail.com" target="top">
-    <img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" alt="khanhdeddo-email" />
+  <a href="mailto:khanhdeddo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<br>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
