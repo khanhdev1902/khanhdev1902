@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>🚀 Backend Engineer | NestJS Specialist | Aspiring Fullstack Developer</h3>
+  <h3>Backend Engineer | NestJS Specialist | Aspiring Fullstack Developer</h3>
   <p><i>Crafting scalable, high-performance systems with clean architecture.</i></p>
 
   <p align="center">
@@ -11,13 +11,13 @@
 
 ---
 
-## 🧑‍💻 Professional Summary
+## Professional Summary
 
 Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Development** with a primary focus on the **NestJS** ecosystem. I thrive on designing robust system architectures, optimizing complex database queries, and building scalable APIs (RESTful & GraphQL).
 
-- 🔭 **Current Focus:** Deep diving into **Microservices architecture, Docker orchestration, and Redis caching strategies.**
-- ⚡ **Goal:** Transitioning towards a **Fullstack Engineer** role, leveraging my core strength in Backend to build seamless end-to-end applications.
-- 💬 **Ask me about:** Node.js, TypeScript, NestJS design patterns, and Database optimization.
+- **Current Focus:** Deep diving into **Microservices architecture, Docker orchestration, and Redis caching strategies.**
+- **Goal:** Transitioning towards a **Fullstack Engineer** role, leveraging my core strength in Backend to build seamless end-to-end applications.
+- **Ask me about:** Node.js, TypeScript, NestJS design patterns, and Database optimization.
 
 ---
 
@@ -49,15 +49,15 @@ Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Deve
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏠 Luxhouse Interior (E-commerce Platform)
+### Luxhouse Interior (E-commerce Platform)
 *High-end furniture management system.*
 - **Core:** NestJS, PostgreSQL (TypeORM).
 - **Key Features:** Secure JWT Authentication, Role-based Access Control (RBAC), Order Management, and Payment Gateway integration.
 - 🔗 [Live Demo](https://luxhouse.vercel.app/)
 
-### 📚 Ebook Store
+### Ebook Store
 *Digital library and online bookstore platform.*
 - **Core:** Node.js, Express, MongoDB (Mongoose).
 - **Key Features:** Optimized Full-text Search, Cart Logic, and User Authentication.
@@ -65,7 +65,7 @@ Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Deve
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Khanh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
