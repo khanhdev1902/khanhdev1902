@@ -1,19 +1,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=e0234e&height=200&section=header&text=Khanh%20Nguyen&fontSize=70&animation=fadeIn" width="1200" alt="Khanh Backend Developer" />
   
-  <p>🚀 <b>Backend Developer | NestJS Enthusiast</b></p>
-  <p><i>Xây dựng hệ thống ổn định, hiệu suất cao và có khả năng mở rộng.</i></p>
+  <h3>🚀 Backend Engineer | NestJS Specialist | Aspiring Fullstack Developer</h3>
+  <p><i>Crafting scalable, high-performance systems with clean architecture.</i></p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/khanh-nguyen-van-b37847341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:khanhdeddo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.facebook.com/khanhdeddo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  </p>
 </div>
 
-<hr />
+---
 
-## 🧑‍💻 About Me
-Chào bạn! Tôi là **Khánh**, một kỹ sư phần mềm tập trung vào phát triển **Backend với NestJS**. 
-Tôi đam mê việc thiết kế kiến trúc hệ thống (System Design), tối ưu hóa truy vấn Database và xây dựng các API theo chuẩn RESTful/GraphQL.
+## 🧑‍💻 Professional Summary
 
-- 🌱 Hiện tại tôi đang đào sâu về: **Microservices, Docker, và Redis caching.**
-- 🎯 Mục tiêu: Trở thành một Fullstack Engineer với thế mạnh cốt lõi là Backend.
-- 💬 Hãy hỏi tôi về: Node.js, Typescript và cấu trúc thư mục trong NestJS.
+Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Development** with a primary focus on the **NestJS** ecosystem. I thrive on designing robust system architectures, optimizing complex database queries, and building scalable APIs (RESTful & GraphQL).
+
+- 🔭 **Current Focus:** Deep diving into **Microservices architecture, Docker orchestration, and Redis caching strategies.**
+- ⚡ **Goal:** Transitioning towards a **Fullstack Engineer** role, leveraging my core strength in Backend to build seamless end-to-end applications.
+- 💬 **Ask me about:** Node.js, TypeScript, NestJS design patterns, and Database optimization.
 
 ---
 
@@ -37,7 +43,7 @@ Tôi đam mê việc thiết kế kiến trúc hệ thống (System Design), t�
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🎨 Frontend Support
+### 🎨 Frontend (Growing Expertise)
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
@@ -47,35 +53,28 @@ Tôi đam mê việc thiết kế kiến trúc hệ thống (System Design), t�
 
 ## 🚀 Featured Projects
 
-### 🏠 Nội thất ZORO (E-commerce Platform)
-*Hệ thống quản lý nội thất cao cấp.*
-- **Backend:** NestJS, PostgreSQL (TypeORM).
-- **Tính năng:** Quản lý đơn hàng, tích hợp thanh toán, phân quyền JWT.
+### 🏠 Zoro Interior (E-commerce Platform)
+*High-end furniture management system.*
+- **Core:** NestJS, PostgreSQL (TypeORM).
+- **Key Features:** Secure JWT Authentication, Role-based Access Control (RBAC), Order Management, and Payment Gateway integration.
 - 🔗 [Live Demo](https://luxhouse.vercel.app/)
 
 ### 📚 Ebook Store
-*Nền tảng đọc và mua sách trực tuyến.*
-- **Backend:** Node.js, Express, MongoDB.
-- **Tính năng:** Tìm kiếm Full-text search, giỏ hàng, xác thực người dùng.
+*Digital library and online bookstore platform.*
+- **Core:** Node.js, Express, MongoDB (Mongoose).
+- **Key Features:** Optimized Full-text Search, Cart Logic, and User Authentication.
 - 🔗 [Live Demo](https://ebook-v2.vercel.app/)
 
 ---
 
-## 📫 Connect with me
-<div align="left">
-  <a href="https://www.facebook.com/khanhdeddo" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/khanh-nguyen-van-b37847341" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:khanhdeddo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Khanh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares."</i>
+</p>
