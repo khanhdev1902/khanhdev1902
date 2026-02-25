@@ -21,9 +21,9 @@ Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Deve
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 🏗 Backend Architecture & Core
+### Backend Architecture & Core
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -31,7 +31,7 @@ Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Deve
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
-### 🗄 Databases & DevOps
+### Databases & DevOps
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -41,7 +41,7 @@ Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Deve
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🎨 Frontend (Growing Expertise)
+### Frontend (Growing Expertise)
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
@@ -55,13 +55,13 @@ Hello! I'm **Khanh**, a Software Engineer deeply passionate about **Backend Deve
 *High-end furniture management system.*
 - **Core:** NestJS, PostgreSQL (TypeORM).
 - **Key Features:** Secure JWT Authentication, Role-based Access Control (RBAC), Order Management, and Payment Gateway integration.
-- 🔗 [Live Demo](https://luxhouse.vercel.app/)
+- [Live Demo](https://luxhouse.vercel.app/)
 
 ### Ebook Store
 *Digital library and online bookstore platform.*
 - **Core:** Node.js, Express, MongoDB (Mongoose).
 - **Key Features:** Optimized Full-text Search, Cart Logic, and User Authentication.
-- 🔗 [Live Demo](https://ebook-v2.vercel.app/)
+- [Live Demo](https://ebook-v2.vercel.app/)
 
 ---
 
