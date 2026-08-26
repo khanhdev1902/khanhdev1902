@@ -67,7 +67,7 @@ Hello! I'm **Khanh**, an Information Technology graduate specializing in **Backe
   - Automated invoice generation via scheduled background jobs (**Cron/BullMQ**)[cite: 1].
   - Integrated QR-based bank payments via **SePay API** with automated verification[cite: 1].
   - Operational workflows, employee management, and business revenue/expense dashboards[cite: 1].
-- 🔗 **Links:** [GitHub Repository](https://github.com/khanhdev1902) • [Live Demo](https://github.com/khanhdev1902) • [Video Demo](https://github.com/khanhdev1902)
+- 🔗 **Links:** [GitHub Repository](https://github.com/khanhdev1902/Building-Management-System) • [Live Demo](https://danjin-bms.vercel.app) 
 
 ### 🛋️ LuxHouse – Premium Furniture E-commerce Platform
 *Modern e-commerce platform with AI-powered search and real-time capabilities.*
@@ -78,7 +78,7 @@ Hello! I'm **Khanh**, an Information Technology graduate specializing in **Backe
   - **AI-powered search** & recommendation engine to optimize product discovery[cite: 1].
   - Automated QR Code payment verification handling concurrent transactions[cite: 1].
   - Real-time order tracking & notifications using **WebSocket**[cite: 1].
-- 🔗 **Links:** [GitHub Repository](https://github.com/khanhdev1902/LuxHouse) • [Live Demo](https://luxhouse.vercel.app)[cite: 1]
+- 🔗 **Links:** [GitHub Repository](https://github.com/khanhdev1902/LuxHouse) • [Live Demo](https://luxhouse.vercel.app)
 
 ---
 
